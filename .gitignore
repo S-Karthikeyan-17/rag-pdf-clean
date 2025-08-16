@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chroma or other large storage
+storage/chroma/
+storage/uploads/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
