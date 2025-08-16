@@ -122,4 +122,9 @@ The app will be running at:
 👨‍💻 Author
 S. Karthikeyan
 🎓 B.Tech Information Technology (2022–2026)
-💻 Full Stack Developer | AI & IoT Enthusiast
+
+App will run at 👉 http://127.0.0.1:5000
+
+
+
+
