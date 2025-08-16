@@ -125,6 +125,12 @@ S. Karthikeyan
 
 App will run at 👉 http://127.0.0.1:5000
 
+## 📸 Output Screenshots
+
+![Output 1](output_screenshot/output1.jpeg)
+![Output 2](output_screenshot/output2.jpeg)
+![Output 3](output_screenshot/output3.jpeg)
+
 
 
 
