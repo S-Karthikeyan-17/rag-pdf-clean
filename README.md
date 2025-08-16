@@ -127,9 +127,16 @@ App will run at 👉 http://127.0.0.1:5000
 
 ## 📸 Output Screenshots
 
+### Chat Interface Example  
 ![Output 1](output_screenshot/output1.jpeg)
+
+### PDF Upload and Response  
 ![Output 2](output_screenshot/output2.jpeg)
+
+### Final Result  
 ![Output 3](output_screenshot/output3.jpeg)
+
+
 
 
 
