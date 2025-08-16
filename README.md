@@ -13,7 +13,20 @@ This project enables contextual question answering from PDF content, making rese
 - 🎨 **Interactive Frontend** with HTML, CSS, and JavaScript  
 - ⚡ Flask backend for handling AI + document processing  
 - 📌 Vector-based **semantic search**  
-- 📱 Responsive UI for better user experience  
+- 📱 Responsive UI for better user experience
+  
+
+---
+## 📸 Output Screenshots 
+
+### Chat Interface Example  
+![Output 1](output_screenshot/output1.jpeg)
+
+### PDF Upload and Response  
+![Output 2](output_screenshot/output2.jpeg)
+
+### Final Result  
+![Output 3](output_screenshot/output3.jpeg)
 
 ---
 
@@ -125,16 +138,10 @@ S. Karthikeyan
 
 App will run at 👉 http://127.0.0.1:5000
 
-## 📸 Output Screenshots
 
-### Chat Interface Example  
-![Output 1](output_screenshot/output1.jpeg)
 
-### PDF Upload and Response  
-![Output 2](output_screenshot/output2.jpeg)
 
-### Final Result  
-![Output 3](output_screenshot/output3.jpeg)
+
 
 
 
